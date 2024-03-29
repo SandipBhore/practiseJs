@@ -40,3 +40,35 @@
 .read-the-docs {
   color: #888;
 }
+
+button{
+  background-color: white;
+  color: crimson;
+  border: 2px solid #281f2c32;
+}
+
+h1,h2,h3,h4{
+  color:rgb(51, 103, 245);
+}
+
+p{
+  color: chocolate
+}
+
+#backbtn{
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 20px ;
+}
+.home{
+  a{
+    margin: 10px;
+  }
+}
+
+.triangle{
+  input{
+    width: 80px;
+    margin: 10px;
+  }
+}
